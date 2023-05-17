@@ -1,6 +1,7 @@
 # YoutubeGPT
 
 YoutubeGPT is a web application that utilizes OpenAI's state-of-the-art models to enhance the accessibility and comprehension of YouTube videos. By leveraging the power of Whisper, a general-purpose speech recognition model, and GPT-3, a language model capable of generating human-like text, YoutubeGPT extracts transcriptions from YouTube videos and provides users with concise and accurate summaries based on the video content.
+![Screenshot (455)](https://github.com/RafayKhattak/YoutubeGPT/assets/90026724/7eb66cf6-73db-490c-9212-2e2ffd76bae7)
 
 ## Features
 
